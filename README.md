@@ -29,7 +29,7 @@ Project ini bertujuan untuk memberikan pemahaman praktis mengenai penerapan meto
   https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 - **Google Colab Notebook**  
-  *(isi link Colab kamu di sini)*
+  https://colab.research.google.com/drive/1cBr6g87MjnTwYaWJpQHv2_YynafUwfif#scrollTo=TYqXrrUYkJ2y
 
 ---
 
